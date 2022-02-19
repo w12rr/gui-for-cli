@@ -26,7 +26,7 @@ should display output.
 
 More detailed features are available on GitHub.
 
-# #Contributing
+## Contributing
 Want to contribute? No problem. You are welcome :) 
 
 If you have some feature suggestions, just open a new one here on GitHub.
@@ -48,6 +48,6 @@ Please note - if you want to start contribute, contact me firstly by e-mail (bel
 
 If you have som questions, feel free to contact me by e-mail - dam.sibinski@gmail.com
 
-##License
+## License
 
 [MIT](https://en.wikipedia.org/wiki/MIT_License)
