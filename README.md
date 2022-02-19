@@ -9,16 +9,16 @@ app allows user to respond.
 
 We will add some screenshots when app will be ready :)
 
-##Installation
+## Installation
 We will provide installation guid when app will be production ready :)
 
-##Usage
+## Usage
 We will also provide some usage informations :)
 
-##Support
+## Support
 If you need support, please feel free to contact me by e-mail - dam.sibinski@gmail.com.
 
-##Roadmap
+## Roadmap
 Our first target is to provide MVP. 
 
 App should allow interacting with shell in interactive mode and start any new programs by typing their names. Then
@@ -26,7 +26,7 @@ should display output.
 
 More detailed features are available on GitHub.
 
-##Contributing
+# #Contributing
 Want to contribute? No problem. You are welcome :) 
 
 If you have some feature suggestions, just open a new one here on GitHub.
