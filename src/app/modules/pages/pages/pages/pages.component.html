@@ -1,0 +1,17 @@
+<nb-layout windowMode>
+    <nb-layout-header fixed>
+        <gui-header></gui-header>
+    </nb-layout-header>
+
+    <nb-sidebar class="menu-sidebar" tag="menu-sidebar" responsive>
+        <nb-menu [items]="menu"></nb-menu>
+    </nb-sidebar>
+
+    <nb-layout-column>
+        <router-outlet></router-outlet>
+    </nb-layout-column>
+
+    <nb-layout-footer fixed>
+        <gui-footer></gui-footer>
+    </nb-layout-footer>
+</nb-layout>
